@@ -15,15 +15,6 @@ pip install pandas==1.5.3
 
 Traffic_signal_prediction Dataset link-> https://www.kaggle.com/datasets/ahemateja19bec1025/traffic-sign-dataset-classification
 
-Google collab program links
-
-https://colab.research.google.com/drive/1-yM__OxeRop03LOjUXiLHohxjxN5Nx0z
-https://colab.research.google.com/drive/1a4zS3SOhufW4zgzvA8ZTsH_dmohcMyBG
-https://colab.research.google.com/drive/1NY9PofiKnNI4-tg0jMqKvlssnasn47vM#scrollTo=rHCF-WgA0DaB
-https://colab.research.google.com/drive/1ePrLlLaD-b5zXOBacmXNE6lQCKTzXz-C#scrollTo=UR2386-tNHHU
-https://colab.research.google.com/drive/1YrEC6j8jbXZ0YC9XFK-c6CLadO849kxr#scrollTo=6MXbinSXVqha
-
-
 
 
 
