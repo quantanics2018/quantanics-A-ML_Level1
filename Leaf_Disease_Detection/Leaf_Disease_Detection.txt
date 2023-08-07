@@ -1,1 +1,6 @@
 https://colab.research.google.com/drive/1NY9PofiKnNI4-tg0jMqKvlssnasn47vM#scrollTo=rHCF-WgA0DaB
+
+string split 
+string compare
+
+string 1 list , 2 lisyt , 3 list
