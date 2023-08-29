@@ -6,7 +6,7 @@ from vehicle_detector import VehicleDetector
 vd = VehicleDetector()
 
 # Load images from a folder
-images_folder = glob.glob(".jpg")
+images_folder = glob.glob("images/*.jpg")
 
 vehicles_folder_count = 0
 
