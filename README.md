@@ -12,10 +12,3 @@ pip install mediapipe==0.10.2
 pip install scikit-learn==1.2.2
 pip install xgboost==1.7.6
 pip install pandas==1.5.3
-
-Traffic_signal_prediction Dataset link-> https://www.kaggle.com/datasets/ahemateja19bec1025/traffic-sign-dataset-classification
-
-
-
-
-
