@@ -8,7 +8,8 @@ pip install pandas==1.5.3
 pip install scikit-learn==1.2.2
 
 
-Code Link -> https://colab.research.google.com/drive/1YrEC6j8jbXZ0YC9XFK-c6CLadO849kxr#scrollTo=6MXbinSXVqha
+Code Link -> https://colab.research.google.com/drive/1tiGXi1b6S49tAXd_l9sq9GvRl2UnrHYV?usp=sharing
+
 
 
 
